@@ -9,3 +9,6 @@
 https://drive.google.com/file/d/1OuMBVBLxmjuvxU-jbAdg1KohmAE9TJdW/view
 
 test  data is in folder
+
+# for small code of dl and hoc rwfer below link
+https://drive.google.com/drive/folders/1dS5KyzftKSYfJvQ2N9DhXm3Zoe8IbDtS?usp=sharing
