@@ -6,3 +6,5 @@
  
 # fashion mnist dataset link 
 https://drive.google.com/file/d/1OuMBVBLxmjuvxU-jbAdg1KohmAE9TJdW/view
+
+test  data is in folder
